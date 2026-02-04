@@ -5,6 +5,6 @@
 -nano filename :存在するファイルを開く、なければ作る
 -git add filename :次commitするものに加える
 -git commit -m message"" :履歴として残す　-m""はメッセージを加える
--git push: 履歴をgithubへ送る
+-git push : 履歴をgithubへ送る
 ##
 
